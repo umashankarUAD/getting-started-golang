@@ -1,5 +1,5 @@
 package main
-test this is a test build
+
 import (
 	"encoding/json"
 	"log"
