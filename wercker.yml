@@ -30,3 +30,13 @@ build:
         name: go test
         code: |
           go test ./...
+build2:
+  # The steps that will be executed on build
+  steps:
+
+    # Say Hello World!
+    - script:
+        name: Greeting
+        code: |
+          echo Hello World!
+          echo Goodbye World!
