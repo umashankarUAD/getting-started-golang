@@ -36,7 +36,7 @@ build2:
 
     # Say Hello World!
     - script:
-        name: Greeting
+        name: Greeting for build2
         code: |
           echo Hello World!
           echo Goodbye World!
@@ -46,7 +46,7 @@ build3:
 
     # Say Hello World!
     - script:
-        name: Greeting
+        name: Greeting for build3
         code: |
           echo This is BUILD 3
           This is a test for Build 3
@@ -58,7 +58,7 @@ build4:
 
     # Say Hello World!
     - script:
-        name: Greeting
+        name: Greeting for build4
         code: |
           echo This is BUILD 4
           This is a test for Build 4
@@ -69,7 +69,7 @@ build5:
 
     # Say Hello World!
     - script:
-        name: Greeting
+        name: Greeting for build5
         code: |
           echo This is BUILD 5
           This is a test for Build 5
@@ -80,7 +80,7 @@ build6:
 
     # Say Hello World!
     - script:
-        name: Greeting
+        name: Greeting for build6
         code: |
           echo This is BUILD 6
           This is a test for Build 6
